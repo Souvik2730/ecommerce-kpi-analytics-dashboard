@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,unit_price
+PROD001,Product 1,Fashion,799,1746.41
+PROD002,Product 2,Home & Kitchen,547,673.88
+PROD003,Product 3,Fashion,955,1173.47
+PROD004,Product 4,Home & Kitchen,464,752.0
+PROD005,Product 5,Sports,774,1420.47
+PROD006,Product 6,Sports,1107,2437.09
+PROD007,Product 7,Electronics,1449,3025.92
+PROD008,Product 8,Books,566,1007.3
+PROD009,Product 9,Home & Kitchen,513,798.08
+PROD010,Product 10,Beauty,1578,3939.1
+PROD011,Product 11,Electronics,685,1201.51
+PROD012,Product 12,Home & Kitchen,1356,2422.91
+PROD013,Product 13,Home & Kitchen,1347,1902.92
+PROD014,Product 14,Electronics,1093,2440.94
+PROD015,Product 15,Sports,1954,4106.89
+PROD016,Product 16,Home & Kitchen,1535,2282.55
+PROD017,Product 17,Sports,671,877.06
+PROD018,Product 18,Electronics,434,904.74
+PROD019,Product 19,Sports,1345,2758.41
+PROD020,Product 20,Fashion,136,211.51
+PROD021,Product 21,Beauty,1088,2650.5
+PROD022,Product 22,Home & Kitchen,377,526.43
+PROD023,Product 23,Books,1319,2324.12
+PROD024,Product 24,Beauty,1015,2463.1
+PROD025,Product 25,Sports,1987,3468.6
+PROD026,Product 26,Home & Kitchen,583,1183.54
+PROD027,Product 27,Sports,1365,2343.53
+PROD028,Product 28,Fashion,1447,2252.23
+PROD029,Product 29,Electronics,830,2057.71
+PROD030,Product 30,Home & Kitchen,291,504.05
+PROD031,Product 31,Fashion,1140,2693.06
+PROD032,Product 32,Fashion,623,933.84
+PROD033,Product 33,Home & Kitchen,1017,1502.15
+PROD034,Product 34,Sports,500,620.24
+PROD035,Product 35,Books,985,2016.46
+PROD036,Product 36,Fashion,804,1349.98
+PROD037,Product 37,Beauty,121,281.16
+PROD038,Product 38,Fashion,573,1040.09
+PROD039,Product 39,Books,1243,3056.1
+PROD040,Product 40,Sports,309,445.33
+PROD041,Product 41,Sports,405,943.33
+PROD042,Product 42,Beauty,1393,3077.94
+PROD043,Product 43,Fashion,803,1768.37
+PROD044,Product 44,Sports,786,1806.4
+PROD045,Product 45,Books,384,840.7
+PROD046,Product 46,Home & Kitchen,815,1641.48
+PROD047,Product 47,Electronics,1799,2465.74
+PROD048,Product 48,Electronics,862,1070.85
+PROD049,Product 49,Electronics,1350,3236.09
+PROD050,Product 50,Fashion,1047,2095.72

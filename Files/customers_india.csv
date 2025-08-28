@@ -1,0 +1,501 @@
+customer_id,signup_date,country,state,device_type
+CUST0001,2023-04-13,India,Maharashtra,Mobile
+CUST0002,2024-03-11,India,Maharashtra,Mobile
+CUST0003,2023-09-28,India,West Bengal,Mobile
+CUST0004,2023-04-17,India,Karnataka,Mobile
+CUST0005,2023-03-13,India,Karnataka,Mobile
+CUST0006,2024-12-01,India,West Bengal,Desktop
+CUST0007,2023-01-21,India,Tamil Nadu,Mobile
+CUST0008,2024-09-06,India,Karnataka,Desktop
+CUST0009,2023-05-02,India,Maharashtra,Desktop
+CUST0010,2024-04-11,India,Maharashtra,Mobile
+CUST0011,2023-08-03,India,Delhi,Mobile
+CUST0012,2023-11-27,India,Karnataka,Mobile
+CUST0013,2024-04-03,India,Tamil Nadu,Mobile
+CUST0014,2023-03-29,India,West Bengal,Desktop
+CUST0015,2024-01-08,India,West Bengal,Mobile
+CUST0016,2023-04-10,India,Tamil Nadu,Mobile
+CUST0017,2024-10-25,India,Gujarat,Mobile
+CUST0018,2023-05-11,India,Uttar Pradesh,Mobile
+CUST0019,2024-10-23,India,Delhi,Desktop
+CUST0020,2023-11-05,India,West Bengal,Mobile
+CUST0021,2023-12-10,India,Karnataka,Mobile
+CUST0022,2024-05-06,India,Delhi,Tablet
+CUST0023,2024-02-18,India,Karnataka,Desktop
+CUST0024,2024-01-21,India,Gujarat,Mobile
+CUST0025,2023-07-11,India,Maharashtra,Mobile
+CUST0026,2023-10-04,India,Delhi,Mobile
+CUST0027,2023-06-10,India,West Bengal,Mobile
+CUST0028,2024-04-04,India,Delhi,Mobile
+CUST0029,2023-11-10,India,Delhi,Mobile
+CUST0030,2023-01-22,India,Delhi,Mobile
+CUST0031,2023-09-10,India,Uttar Pradesh,Mobile
+CUST0032,2024-07-14,India,Delhi,Desktop
+CUST0033,2024-04-19,India,Karnataka,Mobile
+CUST0034,2023-02-28,India,Maharashtra,Mobile
+CUST0035,2024-05-25,India,Gujarat,Mobile
+CUST0036,2024-11-12,India,Tamil Nadu,Tablet
+CUST0037,2024-04-20,India,Delhi,Mobile
+CUST0038,2024-11-30,India,West Bengal,Mobile
+CUST0039,2023-07-09,India,Delhi,Tablet
+CUST0040,2024-11-17,India,West Bengal,Desktop
+CUST0041,2024-07-16,India,Karnataka,Desktop
+CUST0042,2024-07-20,India,West Bengal,Mobile
+CUST0043,2023-09-01,India,Tamil Nadu,Mobile
+CUST0044,2024-05-19,India,Maharashtra,Desktop
+CUST0045,2023-05-11,India,West Bengal,Tablet
+CUST0046,2024-04-29,India,West Bengal,Mobile
+CUST0047,2024-10-08,India,Maharashtra,Mobile
+CUST0048,2023-01-21,India,Tamil Nadu,Mobile
+CUST0049,2023-06-16,India,Delhi,Desktop
+CUST0050,2023-10-01,India,West Bengal,Mobile
+CUST0051,2024-01-23,India,Maharashtra,Mobile
+CUST0052,2024-08-23,India,Karnataka,Mobile
+CUST0053,2023-11-12,India,Maharashtra,Mobile
+CUST0054,2023-01-14,India,Karnataka,Mobile
+CUST0055,2023-08-30,India,Tamil Nadu,Mobile
+CUST0056,2023-12-12,India,Delhi,Desktop
+CUST0057,2024-07-18,India,Maharashtra,Mobile
+CUST0058,2023-12-06,India,Gujarat,Mobile
+CUST0059,2023-04-02,India,Gujarat,Mobile
+CUST0060,2024-01-02,India,Uttar Pradesh,Mobile
+CUST0061,2024-03-30,India,West Bengal,Mobile
+CUST0062,2024-03-03,India,Tamil Nadu,Mobile
+CUST0063,2024-05-23,India,Maharashtra,Mobile
+CUST0064,2023-02-04,India,Gujarat,Mobile
+CUST0065,2023-07-25,India,West Bengal,Mobile
+CUST0066,2023-03-22,India,Gujarat,Tablet
+CUST0067,2024-07-15,India,Maharashtra,Mobile
+CUST0068,2024-01-23,India,Karnataka,Desktop
+CUST0069,2023-01-02,India,Maharashtra,Mobile
+CUST0070,2024-01-25,India,Uttar Pradesh,Desktop
+CUST0071,2024-07-19,India,Maharashtra,Desktop
+CUST0072,2023-04-16,India,Maharashtra,Mobile
+CUST0073,2024-04-21,India,Uttar Pradesh,Mobile
+CUST0074,2024-12-03,India,Tamil Nadu,Mobile
+CUST0075,2024-02-06,India,Maharashtra,Mobile
+CUST0076,2024-12-30,India,Uttar Pradesh,Tablet
+CUST0077,2024-07-09,India,West Bengal,Desktop
+CUST0078,2023-06-11,India,Karnataka,Tablet
+CUST0079,2023-07-21,India,Karnataka,Mobile
+CUST0080,2023-09-27,India,Maharashtra,Desktop
+CUST0081,2023-09-28,India,Tamil Nadu,Tablet
+CUST0082,2024-03-31,India,Tamil Nadu,Mobile
+CUST0083,2024-04-06,India,West Bengal,Mobile
+CUST0084,2024-12-27,India,Maharashtra,Desktop
+CUST0085,2023-09-09,India,Karnataka,Mobile
+CUST0086,2024-12-02,India,Tamil Nadu,Desktop
+CUST0087,2023-10-23,India,Maharashtra,Mobile
+CUST0088,2024-12-25,India,Gujarat,Desktop
+CUST0089,2024-12-20,India,Tamil Nadu,Mobile
+CUST0090,2023-12-04,India,Uttar Pradesh,Mobile
+CUST0091,2023-02-22,India,Gujarat,Mobile
+CUST0092,2023-08-05,India,Tamil Nadu,Desktop
+CUST0093,2023-07-07,India,Karnataka,Desktop
+CUST0094,2024-01-15,India,Delhi,Mobile
+CUST0095,2024-05-07,India,Gujarat,Mobile
+CUST0096,2023-02-10,India,West Bengal,Desktop
+CUST0097,2023-06-06,India,West Bengal,Mobile
+CUST0098,2023-01-15,India,Karnataka,Desktop
+CUST0099,2023-03-06,India,Tamil Nadu,Mobile
+CUST0100,2024-06-04,India,Maharashtra,Mobile
+CUST0101,2023-12-10,India,Tamil Nadu,Mobile
+CUST0102,2023-05-09,India,Karnataka,Mobile
+CUST0103,2024-10-09,India,West Bengal,Desktop
+CUST0104,2024-04-16,India,Tamil Nadu,Mobile
+CUST0105,2023-03-04,India,West Bengal,Mobile
+CUST0106,2023-05-19,India,Gujarat,Desktop
+CUST0107,2024-05-13,India,Maharashtra,Mobile
+CUST0108,2024-08-15,India,Gujarat,Mobile
+CUST0109,2024-01-27,India,West Bengal,Tablet
+CUST0110,2024-11-05,India,West Bengal,Desktop
+CUST0111,2024-02-23,India,Delhi,Mobile
+CUST0112,2023-10-16,India,Delhi,Tablet
+CUST0113,2024-01-14,India,Gujarat,Desktop
+CUST0114,2024-05-04,India,Uttar Pradesh,Mobile
+CUST0115,2023-08-19,India,Gujarat,Mobile
+CUST0116,2023-02-10,India,Delhi,Desktop
+CUST0117,2023-01-28,India,West Bengal,Desktop
+CUST0118,2023-05-15,India,Karnataka,Mobile
+CUST0119,2023-07-20,India,Gujarat,Desktop
+CUST0120,2023-02-02,India,West Bengal,Desktop
+CUST0121,2023-02-17,India,Karnataka,Mobile
+CUST0122,2024-05-17,India,Karnataka,Mobile
+CUST0123,2024-02-11,India,Delhi,Mobile
+CUST0124,2024-07-27,India,Gujarat,Desktop
+CUST0125,2024-12-28,India,Tamil Nadu,Mobile
+CUST0126,2023-04-09,India,Maharashtra,Mobile
+CUST0127,2024-11-14,India,Delhi,Desktop
+CUST0128,2024-12-26,India,Delhi,Desktop
+CUST0129,2024-06-30,India,Tamil Nadu,Mobile
+CUST0130,2024-09-04,India,Maharashtra,Desktop
+CUST0131,2024-04-06,India,West Bengal,Mobile
+CUST0132,2024-10-04,India,Uttar Pradesh,Desktop
+CUST0133,2023-01-05,India,Gujarat,Mobile
+CUST0134,2023-08-06,India,Uttar Pradesh,Mobile
+CUST0135,2024-05-17,India,West Bengal,Desktop
+CUST0136,2024-02-02,India,Delhi,Mobile
+CUST0137,2024-01-28,India,Maharashtra,Mobile
+CUST0138,2023-07-26,India,Delhi,Desktop
+CUST0139,2023-01-15,India,Karnataka,Desktop
+CUST0140,2024-07-07,India,Delhi,Desktop
+CUST0141,2024-04-05,India,Delhi,Desktop
+CUST0142,2024-11-21,India,West Bengal,Mobile
+CUST0143,2024-07-28,India,West Bengal,Mobile
+CUST0144,2023-08-29,India,West Bengal,Mobile
+CUST0145,2024-07-17,India,Uttar Pradesh,Mobile
+CUST0146,2023-04-06,India,Karnataka,Tablet
+CUST0147,2024-04-29,India,West Bengal,Mobile
+CUST0148,2024-02-11,India,Maharashtra,Mobile
+CUST0149,2023-08-19,India,Uttar Pradesh,Mobile
+CUST0150,2024-10-16,India,Tamil Nadu,Tablet
+CUST0151,2023-06-20,India,Maharashtra,Mobile
+CUST0152,2024-06-24,India,Gujarat,Mobile
+CUST0153,2023-02-05,India,Gujarat,Mobile
+CUST0154,2024-06-08,India,Maharashtra,Desktop
+CUST0155,2023-06-09,India,West Bengal,Mobile
+CUST0156,2024-11-29,India,Tamil Nadu,Desktop
+CUST0157,2023-08-31,India,Tamil Nadu,Tablet
+CUST0158,2023-03-27,India,Uttar Pradesh,Mobile
+CUST0159,2024-07-31,India,Tamil Nadu,Desktop
+CUST0160,2024-11-12,India,Gujarat,Tablet
+CUST0161,2024-07-10,India,Karnataka,Desktop
+CUST0162,2024-07-27,India,West Bengal,Mobile
+CUST0163,2024-10-07,India,Tamil Nadu,Mobile
+CUST0164,2023-01-28,India,Uttar Pradesh,Desktop
+CUST0165,2024-09-11,India,Gujarat,Mobile
+CUST0166,2024-07-09,India,Karnataka,Desktop
+CUST0167,2023-12-06,India,Delhi,Tablet
+CUST0168,2023-11-27,India,Delhi,Tablet
+CUST0169,2024-10-01,India,Karnataka,Mobile
+CUST0170,2024-05-20,India,Gujarat,Mobile
+CUST0171,2023-12-14,India,Uttar Pradesh,Tablet
+CUST0172,2024-04-17,India,Karnataka,Desktop
+CUST0173,2023-08-19,India,West Bengal,Mobile
+CUST0174,2023-07-09,India,West Bengal,Tablet
+CUST0175,2023-08-13,India,Delhi,Desktop
+CUST0176,2024-01-20,India,Tamil Nadu,Mobile
+CUST0177,2024-01-12,India,Uttar Pradesh,Mobile
+CUST0178,2023-10-10,India,Delhi,Mobile
+CUST0179,2024-09-24,India,Tamil Nadu,Mobile
+CUST0180,2024-09-19,India,Tamil Nadu,Mobile
+CUST0181,2023-09-16,India,West Bengal,Desktop
+CUST0182,2023-12-25,India,Gujarat,Mobile
+CUST0183,2024-12-10,India,Maharashtra,Mobile
+CUST0184,2024-03-31,India,Gujarat,Mobile
+CUST0185,2024-02-15,India,Maharashtra,Mobile
+CUST0186,2024-10-10,India,Karnataka,Tablet
+CUST0187,2023-11-14,India,West Bengal,Mobile
+CUST0188,2024-11-07,India,Tamil Nadu,Mobile
+CUST0189,2023-08-13,India,Uttar Pradesh,Desktop
+CUST0190,2023-08-22,India,Maharashtra,Mobile
+CUST0191,2024-11-14,India,Gujarat,Mobile
+CUST0192,2024-10-25,India,Tamil Nadu,Mobile
+CUST0193,2024-01-09,India,Maharashtra,Mobile
+CUST0194,2024-11-02,India,Maharashtra,Mobile
+CUST0195,2024-08-30,India,Maharashtra,Mobile
+CUST0196,2024-04-16,India,Uttar Pradesh,Mobile
+CUST0197,2023-08-21,India,West Bengal,Tablet
+CUST0198,2024-11-22,India,Uttar Pradesh,Mobile
+CUST0199,2023-04-23,India,Delhi,Mobile
+CUST0200,2024-05-11,India,Tamil Nadu,Desktop
+CUST0201,2024-03-17,India,West Bengal,Mobile
+CUST0202,2024-07-17,India,West Bengal,Desktop
+CUST0203,2023-09-25,India,West Bengal,Mobile
+CUST0204,2024-05-24,India,Gujarat,Tablet
+CUST0205,2024-01-21,India,West Bengal,Mobile
+CUST0206,2024-01-22,India,Uttar Pradesh,Mobile
+CUST0207,2023-04-23,India,West Bengal,Mobile
+CUST0208,2024-09-04,India,Karnataka,Tablet
+CUST0209,2024-09-16,India,Tamil Nadu,Mobile
+CUST0210,2023-03-22,India,West Bengal,Mobile
+CUST0211,2024-11-29,India,Tamil Nadu,Mobile
+CUST0212,2023-04-23,India,Karnataka,Desktop
+CUST0213,2023-01-02,India,Karnataka,Mobile
+CUST0214,2024-10-03,India,Tamil Nadu,Desktop
+CUST0215,2023-08-08,India,Maharashtra,Mobile
+CUST0216,2024-07-19,India,Delhi,Mobile
+CUST0217,2023-08-13,India,Gujarat,Mobile
+CUST0218,2024-01-20,India,Maharashtra,Mobile
+CUST0219,2024-02-07,India,Maharashtra,Mobile
+CUST0220,2024-09-29,India,Uttar Pradesh,Mobile
+CUST0221,2023-05-10,India,Gujarat,Desktop
+CUST0222,2023-02-22,India,Gujarat,Mobile
+CUST0223,2024-11-14,India,Maharashtra,Mobile
+CUST0224,2024-12-30,India,West Bengal,Mobile
+CUST0225,2024-11-02,India,Uttar Pradesh,Mobile
+CUST0226,2024-12-10,India,Uttar Pradesh,Mobile
+CUST0227,2024-02-20,India,Karnataka,Mobile
+CUST0228,2023-09-04,India,Gujarat,Mobile
+CUST0229,2024-03-14,India,Maharashtra,Desktop
+CUST0230,2023-07-22,India,Karnataka,Tablet
+CUST0231,2023-07-03,India,Tamil Nadu,Mobile
+CUST0232,2023-05-03,India,Delhi,Mobile
+CUST0233,2024-02-05,India,Uttar Pradesh,Desktop
+CUST0234,2023-10-21,India,Tamil Nadu,Mobile
+CUST0235,2023-10-07,India,Tamil Nadu,Mobile
+CUST0236,2024-09-01,India,West Bengal,Mobile
+CUST0237,2023-07-17,India,Delhi,Desktop
+CUST0238,2024-05-25,India,Tamil Nadu,Desktop
+CUST0239,2023-05-24,India,Tamil Nadu,Mobile
+CUST0240,2024-08-31,India,Delhi,Mobile
+CUST0241,2023-07-20,India,Delhi,Mobile
+CUST0242,2023-05-04,India,Tamil Nadu,Desktop
+CUST0243,2023-07-06,India,Delhi,Mobile
+CUST0244,2023-11-22,India,Tamil Nadu,Mobile
+CUST0245,2024-04-08,India,Tamil Nadu,Desktop
+CUST0246,2023-12-15,India,West Bengal,Mobile
+CUST0247,2024-10-21,India,Maharashtra,Desktop
+CUST0248,2024-02-07,India,Tamil Nadu,Mobile
+CUST0249,2023-12-12,India,Karnataka,Mobile
+CUST0250,2024-05-25,India,Uttar Pradesh,Mobile
+CUST0251,2023-05-27,India,Gujarat,Desktop
+CUST0252,2023-05-28,India,Maharashtra,Desktop
+CUST0253,2024-12-11,India,Maharashtra,Desktop
+CUST0254,2024-05-03,India,Maharashtra,Mobile
+CUST0255,2024-10-01,India,West Bengal,Desktop
+CUST0256,2024-07-04,India,Tamil Nadu,Mobile
+CUST0257,2023-12-04,India,West Bengal,Mobile
+CUST0258,2024-10-02,India,Tamil Nadu,Desktop
+CUST0259,2024-04-17,India,West Bengal,Mobile
+CUST0260,2023-05-31,India,West Bengal,Mobile
+CUST0261,2024-02-19,India,Uttar Pradesh,Mobile
+CUST0262,2023-10-25,India,Karnataka,Mobile
+CUST0263,2024-09-02,India,West Bengal,Mobile
+CUST0264,2023-09-20,India,Uttar Pradesh,Mobile
+CUST0265,2023-05-24,India,Delhi,Mobile
+CUST0266,2023-12-12,India,Karnataka,Desktop
+CUST0267,2024-09-15,India,West Bengal,Desktop
+CUST0268,2024-07-25,India,Gujarat,Mobile
+CUST0269,2023-01-02,India,Maharashtra,Mobile
+CUST0270,2023-10-31,India,Delhi,Mobile
+CUST0271,2023-09-11,India,Delhi,Mobile
+CUST0272,2024-10-13,India,Uttar Pradesh,Mobile
+CUST0273,2024-03-28,India,Delhi,Desktop
+CUST0274,2023-02-06,India,Karnataka,Mobile
+CUST0275,2023-06-09,India,West Bengal,Mobile
+CUST0276,2023-01-09,India,West Bengal,Mobile
+CUST0277,2023-08-21,India,Gujarat,Mobile
+CUST0278,2023-04-09,India,Maharashtra,Tablet
+CUST0279,2024-10-20,India,Uttar Pradesh,Desktop
+CUST0280,2023-07-27,India,Maharashtra,Mobile
+CUST0281,2023-05-11,India,Delhi,Desktop
+CUST0282,2024-02-08,India,Gujarat,Mobile
+CUST0283,2023-06-01,India,Maharashtra,Desktop
+CUST0284,2023-02-23,India,Karnataka,Desktop
+CUST0285,2023-04-30,India,West Bengal,Mobile
+CUST0286,2024-11-03,India,Delhi,Mobile
+CUST0287,2024-09-19,India,Gujarat,Mobile
+CUST0288,2024-08-09,India,Maharashtra,Mobile
+CUST0289,2024-09-16,India,Uttar Pradesh,Desktop
+CUST0290,2024-02-24,India,Karnataka,Mobile
+CUST0291,2024-02-26,India,Karnataka,Mobile
+CUST0292,2023-04-14,India,Maharashtra,Desktop
+CUST0293,2023-09-11,India,West Bengal,Tablet
+CUST0294,2023-08-15,India,Maharashtra,Mobile
+CUST0295,2023-04-22,India,Delhi,Mobile
+CUST0296,2024-05-24,India,Maharashtra,Mobile
+CUST0297,2024-04-17,India,Karnataka,Mobile
+CUST0298,2023-04-09,India,Gujarat,Tablet
+CUST0299,2023-06-02,India,Maharashtra,Mobile
+CUST0300,2023-12-04,India,West Bengal,Mobile
+CUST0301,2024-12-06,India,Gujarat,Mobile
+CUST0302,2023-06-12,India,Uttar Pradesh,Mobile
+CUST0303,2024-12-20,India,Tamil Nadu,Desktop
+CUST0304,2024-11-11,India,Maharashtra,Desktop
+CUST0305,2023-06-10,India,West Bengal,Mobile
+CUST0306,2024-08-02,India,Gujarat,Mobile
+CUST0307,2024-02-02,India,West Bengal,Mobile
+CUST0308,2023-10-04,India,Uttar Pradesh,Tablet
+CUST0309,2024-05-18,India,Karnataka,Desktop
+CUST0310,2024-01-27,India,West Bengal,Mobile
+CUST0311,2023-05-15,India,Gujarat,Desktop
+CUST0312,2023-07-14,India,West Bengal,Desktop
+CUST0313,2024-02-05,India,West Bengal,Mobile
+CUST0314,2024-10-01,India,West Bengal,Tablet
+CUST0315,2023-02-02,India,Delhi,Mobile
+CUST0316,2024-11-18,India,Delhi,Mobile
+CUST0317,2024-04-04,India,Karnataka,Mobile
+CUST0318,2024-04-14,India,Maharashtra,Mobile
+CUST0319,2024-01-10,India,West Bengal,Mobile
+CUST0320,2023-01-22,India,Uttar Pradesh,Desktop
+CUST0321,2024-10-31,India,Maharashtra,Mobile
+CUST0322,2023-02-07,India,Uttar Pradesh,Desktop
+CUST0323,2023-08-18,India,Maharashtra,Mobile
+CUST0324,2023-12-31,India,Karnataka,Mobile
+CUST0325,2024-07-16,India,West Bengal,Mobile
+CUST0326,2024-03-13,India,West Bengal,Mobile
+CUST0327,2023-10-10,India,Tamil Nadu,Desktop
+CUST0328,2023-01-27,India,Uttar Pradesh,Mobile
+CUST0329,2023-08-14,India,Maharashtra,Mobile
+CUST0330,2023-10-04,India,Maharashtra,Mobile
+CUST0331,2024-08-31,India,Delhi,Desktop
+CUST0332,2023-10-11,India,Tamil Nadu,Tablet
+CUST0333,2024-04-25,India,Gujarat,Desktop
+CUST0334,2024-03-28,India,Gujarat,Mobile
+CUST0335,2024-10-20,India,Delhi,Mobile
+CUST0336,2024-05-30,India,Delhi,Mobile
+CUST0337,2024-06-30,India,Delhi,Mobile
+CUST0338,2023-07-11,India,Uttar Pradesh,Mobile
+CUST0339,2023-02-18,India,Uttar Pradesh,Mobile
+CUST0340,2024-05-26,India,Karnataka,Mobile
+CUST0341,2023-01-17,India,Karnataka,Mobile
+CUST0342,2023-06-21,India,Delhi,Desktop
+CUST0343,2023-08-08,India,Tamil Nadu,Mobile
+CUST0344,2023-06-07,India,Maharashtra,Mobile
+CUST0345,2024-04-21,India,Uttar Pradesh,Desktop
+CUST0346,2023-02-15,India,Tamil Nadu,Mobile
+CUST0347,2024-01-08,India,West Bengal,Desktop
+CUST0348,2024-06-01,India,Uttar Pradesh,Mobile
+CUST0349,2023-04-09,India,Uttar Pradesh,Mobile
+CUST0350,2023-02-06,India,Karnataka,Desktop
+CUST0351,2023-10-07,India,Maharashtra,Desktop
+CUST0352,2023-12-15,India,Maharashtra,Desktop
+CUST0353,2024-05-11,India,Gujarat,Mobile
+CUST0354,2023-10-29,India,Gujarat,Mobile
+CUST0355,2023-06-30,India,Gujarat,Mobile
+CUST0356,2024-08-29,India,Gujarat,Mobile
+CUST0357,2023-04-09,India,West Bengal,Tablet
+CUST0358,2024-11-30,India,West Bengal,Mobile
+CUST0359,2023-04-26,India,Uttar Pradesh,Tablet
+CUST0360,2023-07-10,India,Delhi,Mobile
+CUST0361,2023-09-10,India,Karnataka,Mobile
+CUST0362,2023-06-10,India,Karnataka,Mobile
+CUST0363,2023-09-13,India,Gujarat,Desktop
+CUST0364,2023-11-19,India,Uttar Pradesh,Desktop
+CUST0365,2023-05-08,India,Tamil Nadu,Desktop
+CUST0366,2023-01-18,India,Delhi,Desktop
+CUST0367,2024-07-19,India,Uttar Pradesh,Desktop
+CUST0368,2024-07-23,India,Delhi,Desktop
+CUST0369,2023-11-19,India,Delhi,Mobile
+CUST0370,2024-11-16,India,Delhi,Mobile
+CUST0371,2024-09-17,India,Uttar Pradesh,Mobile
+CUST0372,2023-10-15,India,Gujarat,Tablet
+CUST0373,2024-10-24,India,Karnataka,Tablet
+CUST0374,2024-09-30,India,Karnataka,Mobile
+CUST0375,2023-06-04,India,Gujarat,Desktop
+CUST0376,2024-05-04,India,Delhi,Tablet
+CUST0377,2024-01-21,India,Tamil Nadu,Mobile
+CUST0378,2023-04-14,India,Maharashtra,Mobile
+CUST0379,2024-01-28,India,Uttar Pradesh,Tablet
+CUST0380,2023-09-03,India,Maharashtra,Mobile
+CUST0381,2023-06-25,India,Gujarat,Desktop
+CUST0382,2023-02-08,India,Tamil Nadu,Mobile
+CUST0383,2024-04-21,India,Uttar Pradesh,Tablet
+CUST0384,2024-11-12,India,Gujarat,Tablet
+CUST0385,2024-06-21,India,Delhi,Tablet
+CUST0386,2024-02-12,India,Karnataka,Mobile
+CUST0387,2024-06-08,India,Maharashtra,Desktop
+CUST0388,2024-05-20,India,West Bengal,Desktop
+CUST0389,2023-02-05,India,West Bengal,Mobile
+CUST0390,2024-11-15,India,Tamil Nadu,Desktop
+CUST0391,2023-01-20,India,Delhi,Mobile
+CUST0392,2023-11-17,India,Maharashtra,Mobile
+CUST0393,2024-05-26,India,Delhi,Mobile
+CUST0394,2024-02-04,India,Maharashtra,Mobile
+CUST0395,2024-10-15,India,Tamil Nadu,Mobile
+CUST0396,2024-04-15,India,Tamil Nadu,Desktop
+CUST0397,2023-05-23,India,West Bengal,Mobile
+CUST0398,2023-04-02,India,Delhi,Desktop
+CUST0399,2023-12-20,India,Uttar Pradesh,Mobile
+CUST0400,2024-12-27,India,West Bengal,Mobile
+CUST0401,2023-02-20,India,Delhi,Mobile
+CUST0402,2024-10-26,India,West Bengal,Desktop
+CUST0403,2024-11-28,India,Uttar Pradesh,Mobile
+CUST0404,2024-07-28,India,Karnataka,Desktop
+CUST0405,2023-07-09,India,Karnataka,Desktop
+CUST0406,2023-05-05,India,Karnataka,Desktop
+CUST0407,2023-05-30,India,Karnataka,Mobile
+CUST0408,2023-11-10,India,Gujarat,Mobile
+CUST0409,2024-07-23,India,Maharashtra,Desktop
+CUST0410,2023-12-08,India,Gujarat,Mobile
+CUST0411,2023-11-01,India,Gujarat,Desktop
+CUST0412,2024-11-22,India,Gujarat,Mobile
+CUST0413,2024-11-12,India,Karnataka,Tablet
+CUST0414,2023-02-23,India,Uttar Pradesh,Desktop
+CUST0415,2024-03-19,India,Tamil Nadu,Tablet
+CUST0416,2024-09-04,India,Tamil Nadu,Mobile
+CUST0417,2023-09-21,India,Maharashtra,Desktop
+CUST0418,2023-02-22,India,Karnataka,Mobile
+CUST0419,2024-07-25,India,Karnataka,Mobile
+CUST0420,2024-09-11,India,Karnataka,Desktop
+CUST0421,2023-01-05,India,West Bengal,Desktop
+CUST0422,2023-04-13,India,Delhi,Tablet
+CUST0423,2023-07-15,India,West Bengal,Desktop
+CUST0424,2023-12-16,India,Delhi,Mobile
+CUST0425,2023-02-16,India,Karnataka,Mobile
+CUST0426,2024-10-17,India,Karnataka,Desktop
+CUST0427,2023-09-26,India,West Bengal,Mobile
+CUST0428,2024-01-05,India,West Bengal,Mobile
+CUST0429,2024-09-27,India,Delhi,Mobile
+CUST0430,2023-04-16,India,Tamil Nadu,Mobile
+CUST0431,2024-10-31,India,Delhi,Mobile
+CUST0432,2024-10-20,India,West Bengal,Mobile
+CUST0433,2024-10-18,India,Uttar Pradesh,Mobile
+CUST0434,2023-04-30,India,West Bengal,Mobile
+CUST0435,2024-08-26,India,Uttar Pradesh,Tablet
+CUST0436,2023-02-27,India,Maharashtra,Mobile
+CUST0437,2023-12-12,India,West Bengal,Mobile
+CUST0438,2024-04-18,India,Maharashtra,Desktop
+CUST0439,2023-04-27,India,Tamil Nadu,Mobile
+CUST0440,2023-05-07,India,Delhi,Tablet
+CUST0441,2024-01-28,India,Uttar Pradesh,Desktop
+CUST0442,2024-10-02,India,Delhi,Mobile
+CUST0443,2023-02-27,India,Maharashtra,Mobile
+CUST0444,2024-09-25,India,Uttar Pradesh,Desktop
+CUST0445,2024-05-27,India,Delhi,Tablet
+CUST0446,2023-04-06,India,West Bengal,Mobile
+CUST0447,2024-09-29,India,Karnataka,Desktop
+CUST0448,2023-04-28,India,Maharashtra,Mobile
+CUST0449,2024-07-13,India,Delhi,Tablet
+CUST0450,2024-08-23,India,Maharashtra,Mobile
+CUST0451,2024-05-02,India,Gujarat,Tablet
+CUST0452,2023-08-25,India,Maharashtra,Desktop
+CUST0453,2023-09-29,India,Uttar Pradesh,Desktop
+CUST0454,2023-07-08,India,Gujarat,Mobile
+CUST0455,2024-12-04,India,Uttar Pradesh,Mobile
+CUST0456,2024-03-22,India,Karnataka,Mobile
+CUST0457,2024-08-03,India,Gujarat,Mobile
+CUST0458,2023-09-04,India,West Bengal,Mobile
+CUST0459,2023-03-17,India,Maharashtra,Desktop
+CUST0460,2023-06-03,India,Delhi,Mobile
+CUST0461,2024-10-17,India,Tamil Nadu,Mobile
+CUST0462,2024-03-10,India,Maharashtra,Tablet
+CUST0463,2023-03-27,India,Maharashtra,Desktop
+CUST0464,2024-11-27,India,Karnataka,Tablet
+CUST0465,2023-10-12,India,West Bengal,Tablet
+CUST0466,2023-08-08,India,Tamil Nadu,Mobile
+CUST0467,2023-03-10,India,Gujarat,Mobile
+CUST0468,2023-02-16,India,Gujarat,Desktop
+CUST0469,2023-04-04,India,Gujarat,Desktop
+CUST0470,2024-03-28,India,Uttar Pradesh,Mobile
+CUST0471,2023-07-23,India,Uttar Pradesh,Desktop
+CUST0472,2023-08-06,India,Delhi,Mobile
+CUST0473,2024-04-18,India,Tamil Nadu,Mobile
+CUST0474,2024-03-07,India,Gujarat,Mobile
+CUST0475,2023-12-07,India,Uttar Pradesh,Mobile
+CUST0476,2024-07-04,India,Delhi,Mobile
+CUST0477,2024-09-03,India,West Bengal,Mobile
+CUST0478,2023-10-16,India,Delhi,Desktop
+CUST0479,2023-09-11,India,Uttar Pradesh,Mobile
+CUST0480,2023-12-23,India,Karnataka,Mobile
+CUST0481,2023-01-23,India,Karnataka,Desktop
+CUST0482,2024-06-05,India,Gujarat,Tablet
+CUST0483,2023-04-10,India,Karnataka,Desktop
+CUST0484,2023-06-29,India,Gujarat,Desktop
+CUST0485,2023-08-11,India,Gujarat,Desktop
+CUST0486,2024-10-20,India,Uttar Pradesh,Mobile
+CUST0487,2024-03-17,India,Karnataka,Mobile
+CUST0488,2024-08-30,India,Gujarat,Mobile
+CUST0489,2023-11-21,India,Tamil Nadu,Mobile
+CUST0490,2024-05-30,India,West Bengal,Mobile
+CUST0491,2023-01-16,India,Delhi,Desktop
+CUST0492,2023-12-02,India,Delhi,Mobile
+CUST0493,2023-09-15,India,Uttar Pradesh,Mobile
+CUST0494,2024-05-11,India,Karnataka,Mobile
+CUST0495,2023-06-09,India,Karnataka,Desktop
+CUST0496,2024-04-19,India,Gujarat,Mobile
+CUST0497,2024-10-25,India,Maharashtra,Desktop
+CUST0498,2024-11-20,India,Gujarat,Mobile
+CUST0499,2024-11-05,India,West Bengal,Mobile
+CUST0500,2024-01-15,India,Tamil Nadu,Mobile
