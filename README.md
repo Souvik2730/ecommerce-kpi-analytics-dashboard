@@ -1,6 +1,6 @@
 # 📊 E-Commerce KPI Analytics Dashboard
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/ecommerce-kpi-analytics-dashboard/E_commerce_KPI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/ecommerce-kpi-analytics-dashboard/blob/main/E_commerce_KPI.ipynb)
 
 ---
 
@@ -105,6 +105,7 @@ The final solution delivered:
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
 
