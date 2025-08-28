@@ -87,7 +87,7 @@ The final solution delivered:
 | Tool/Language | Purpose                          |
 |---------------|----------------------------------|
 | **Python (Pandas)** | Data cleaning and preprocessing |
-| **MySQL / PostgreSQL** | Data modeling and SQL views       |
+| **MySQL** | Data modeling and SQL views       |
 | **Power BI**   | Interactive dashboard creation   |
 | **Google Colab** | Python execution environment    |
 | **VS Code**   | Development environment           |
@@ -105,6 +105,7 @@ The final solution delivered:
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
 
