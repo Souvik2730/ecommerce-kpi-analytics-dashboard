@@ -1,6 +1,6 @@
 # 📊 E-Commerce KPI Analytics Dashboard
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Souvik2730/ecommerce-kpi-analytics-dashboard)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/ecommerce-kpi-analytics-dashboard)
 
 ---
 
@@ -11,7 +11,7 @@ This project is a complete end-to-end **E-Commerce KPI Analytics** solution that
 ---
 
 ## 🖼️ Screenshots – Power BI Dashboard
- ![Dashboard Screenshot](./images/pareto_dashboard.png)
+ ![Dashboard Screenshot](https://github.com/Souvik2730/ecommerce-kpi-analytics-dashboard/blob/main/Screenshot%202025-08-28%20122344.png)
 
 ## 🚀 Key Features
 
@@ -105,4 +105,5 @@ The final solution delivered:
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
