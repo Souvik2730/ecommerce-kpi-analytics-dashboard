@@ -1,6 +1,6 @@
 # 📊 E-Commerce KPI Analytics Dashboard
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/ecommerce-kpi-analytics-dashboard)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Souvik2730/ecommerce-kpi-analytics-dashboard/E_commerce_KPI.ipynb)
 
 ---
 
@@ -59,7 +59,7 @@ Build an end-to-end data analytics pipeline and an interactive dashboard that:
 1. 🧹 **Data Cleaning with Python (Pandas):**
    - Rounded off financial metrics (unit price, cost, tax, discount, etc.).
    - Saved cleaned data back to CSV files.
-   - [View Python Data Cleaning Code](https://colab.research.google.com/)
+   - [View Python Data Cleaning Code](https://colab.research.google.com/github.com/Souvik2730/ecommerce-kpi-analytics-dashboard/blob/main/E_commerce_KPI.ipynb)
 
 2. 🗃️ **SQL Database & Modeling:**
    - Created tables: `orders`, `order_items`, `products`, `customers`, `web_events`.
@@ -105,5 +105,6 @@ The final solution delivered:
 ## ⭐ How to Support
 If you found this project helpful, please **star this repository** on GitHub.  
 Your support motivates me to create more projects!
+
 
 
